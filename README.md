@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+`Web Developer/Full Stack Developer/Tech Enthusiast/`
+
 *I am a computer science graduate with an interest in technology and information. Undergoing lectures in the Informatics study program, I always want to learn new technologies used in the technology and information fields, especially web and application development.*
 
 ---
